@@ -1,0 +1,26 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: purple;
+    text-align: center;
+
+  }
+  p{
+    color: palevioletred;
+    font-size: 20px;
+    border: 1px solid black;
+    text-align: center;
+
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+  }
